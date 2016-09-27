@@ -1,6 +1,6 @@
 # for loop 
 This program demonstrates a for loop written in C++. 
-We use the headers include iostream and include string and using namespace std
+We use the headers include iostream, include string, and using namespace std.
 In the main function we first ask the user how many numbers they want to enter. The user then inputs a number and we change it to an integer.
 When the user enters this number we recognize it as the integer "count".
 We intialize the integer "total" to 0
