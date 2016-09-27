@@ -15,7 +15,7 @@ int main()
 		cin >> next_number;
 		total = total + next_number;
 		}
-		cout << total/count;
+		
 
 }
 
